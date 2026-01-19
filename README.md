@@ -9,13 +9,6 @@ Une implémentation complète du jeu traditionnel africain **Awalé (Mancala)** 
 1. [Présentation du jeu](#présentation-du-jeu)  
 2. [Fonctionnalités du programme](#fonctionnalités-du-programme)  
 3. [Installation et exécution](#installation-et-exécution)  
-4. [Règles implémentées](#règles-implémentées)  
-5. [Explication du code](#explication-du-code)  
-6. [IA](#ia)  
-7. [Exemple de partie](#exemple-de-partie)  
-8. [Améliorations possibles](#améliorations-possibles)  
-
----
 
 ## Présentation du jeu
 
